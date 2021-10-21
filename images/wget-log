@@ -1,0 +1,11 @@
+--2021-10-21 18:18:01--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3186344.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 99.86.181.29, 99.86.181.62, 99.86.181.112, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|99.86.181.29|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 201123 (196K) [image/jpeg]
+Saving to: ‘caesar-salad.jpg’
+
+caesar-salad.jpg                                 0%[                                                                                                     ]       0  --.-KB/s               caesar-salad.jpg                                19%[==================>                                                                                  ]  38.68K   181KB/s               caesar-salad.jpg                                51%[==================================================>                                                  ] 100.90K   238KB/s               caesar-salad.jpg                               100%[====================================================================================================>] 196.41K   460KB/s    in 0.4s    
+
+2021-10-21 18:18:02 (460 KB/s) - ‘caesar-salad.jpg’ saved [201123/201123]
+
